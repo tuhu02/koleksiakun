@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "game": "Mobile Legends",
+    "level": 50,
+    "harga": 100000,
+    "status": "tersedia",
+    "deskripsi": "Skin epic, rank mythic",
+    "gambar": "images/akun1.jpg"
+  },
+  {
+    "id": 2,
+    "game": "PUBG Mobile",
+    "level": 30,
+    "harga": 75000,
+    "status": "tersedia",
+    "deskripsi": "Elite Pass aktif",
+    "gambar": "images/akun2.jpg"
+  }
+]
